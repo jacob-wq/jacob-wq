@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jacob-wq
-- 👀 I’m interested in art, coding, and spots
+- 👀 I’m interested in art, coding, and sports
 - 🌱 I’m currently learning JAVA, HTML and CS sometimes python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
